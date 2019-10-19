@@ -79,7 +79,7 @@ function addInventory(){
                 connection.query("UPDATE items SET ? WHERE ?",
                     [
                         {
-                            stock_quanity: res[0].stock_quanity - selection.quanityPrompt
+                            stock_quanity: res[0].stock_quanity + selection.quanityPrompt
                         },
                         {
                             item_id: selection.idPrompt
