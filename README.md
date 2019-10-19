@@ -1,1 +1,1 @@
-# banmazon
+# bamazon
