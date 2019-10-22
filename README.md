@@ -15,7 +15,7 @@
     From these commands the app will prompt the rest of the way.
     
 ## Where users can get help with your project
-    Users can send questions about this project to gej1515@gamil.com    
+    There is are videos in the video folder to show how the app works.   
 
 ## Who maintains and contributes to the project
     Grant Jackson will maintain and add updates at a later time
