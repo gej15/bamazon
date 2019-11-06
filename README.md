@@ -15,9 +15,9 @@
     From these commands the app will prompt the rest of the way.
     
 ## Where users can get help with your project
-    ![bamazoncustomer](./videos/bamazoncustomer.png) 
-    ![bamazonmanager](./videos/bamazonmanager.png) 
-    ![bamazonsupervisor](./videos/bamazonsupervisor.png)
+    ![alt text](/videos/bamazoncustomer.png) 
+    ![alt text](/videos/bamazonmanager.png) 
+    ![alt text](/videos/bamazonsupervisor.png)
 
 ## Who maintains and contributes to the project
     Grant Jackson will maintain and add updates at a later time
