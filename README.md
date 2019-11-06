@@ -14,7 +14,7 @@
 
     From these commands the app will prompt the rest of the way.
     
-## Where users can get help with your project
+Where users can get help with your project
     ![alt text](/videos/bamazoncustomer.png) 
     ![alt text](/videos/bamazonmanager.png) 
     ![alt text](/videos/bamazonsupervisor.png)
